@@ -1,0 +1,2426 @@
+{
+  "pages": {
+    "page_0": {
+      "id": "page_0",
+      "mode": "FIT_WINDOW",
+      "type": "NORMAL",
+      "layout": {
+        "LARGE": "layout_0"
+      },
+      "isDefault": true,
+      "isVisible": true,
+      "label": "Page 1"
+    }
+  },
+  "layouts": {
+    "layout_0": {
+      "type": "FIXED",
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": "24.6%",
+            "right": "-0.0%",
+            "top": "7.0%",
+            "bottom": "0.0%",
+            "width": "75.4%",
+            "height": "93.0%"
+          },
+          "widgetId": "widget_1",
+          "setting": {
+            "autoProps": {
+              "left": true,
+              "right": false,
+              "top": true,
+              "bottom": false
+            },
+            "vCenter": false,
+            "hCenter": false
+          },
+          "isPending": false
+        },
+        "8": {
+          "type": "SECTION",
+          "setting": {
+            "style": {},
+            "autoProps": {
+              "left": true,
+              "right": false,
+              "top": true,
+              "bottom": false
+            },
+            "vCenter": false,
+            "hCenter": false
+          },
+          "bbox": {
+            "left": "0.0%",
+            "right": "0.0%",
+            "top": "61.8%",
+            "bottom": "0.2%",
+            "width": "100.0%",
+            "height": "38.0%"
+          },
+          "sectionId": "section_1",
+          "isPending": true
+        },
+        "9": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": "0.0%",
+            "right": "0.0%",
+            "top": "0.0%",
+            "bottom": "93.0%",
+            "width": "100.0%",
+            "height": "7.0%"
+          },
+          "widgetId": "widget_19",
+          "setting": {
+            "autoProps": {
+              "left": true,
+              "right": false,
+              "top": false,
+              "bottom": true
+            },
+            "vCenter": false,
+            "hCenter": false
+          },
+          "isPending": false
+        },
+        "10": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": "0.0%",
+            "right": "75.4%",
+            "top": "0.0%",
+            "bottom": "0.0%",
+            "width": "24.6%",
+            "height": "100.0%"
+          },
+          "widgetId": "widget_61",
+          "setting": {
+            "autoProps": {
+              "left": false,
+              "right": true,
+              "top": true,
+              "bottom": false
+            }
+          }
+        }
+      },
+      "order": [
+        "0",
+        "8",
+        "9",
+        "10"
+      ]
+    },
+    "layout_1": {
+      "type": "FIXED",
+      "label": "Map FixedLayout",
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": "68.2%",
+            "right": "0.5%",
+            "top": "1.6%",
+            "bottom": "90.7%",
+            "width": "31.3%",
+            "height": "7.7%"
+          },
+          "widgetId": "widget_22",
+          "setting": {
+            "autoProps": {
+              "left": true,
+              "right": false,
+              "top": false,
+              "bottom": true
+            },
+            "vCenter": false,
+            "hCenter": false
+          },
+          "isPending": false
+        }
+      },
+      "order": [
+        "0"
+      ]
+    },
+    "layout_4": {
+      "type": "FIXED",
+      "content": {
+        "3": {
+          "type": "WIDGET",
+          "setting": {
+            "style": {
+              "transform": {
+                "rotate": 0
+              }
+            },
+            "autoProps": {
+              "left": true,
+              "right": false,
+              "top": true,
+              "bottom": false
+            },
+            "vCenter": false,
+            "hCenter": false
+          },
+          "bbox": {
+            "left": "38.2%",
+            "right": "36.8%",
+            "top": "39.1%",
+            "bottom": "35.8%",
+            "width": "25.0%",
+            "height": "25.1%"
+          },
+          "widgetId": "widget_7",
+          "isPending": true
+        },
+        "5": {
+          "type": "WIDGET",
+          "setting": {
+            "style": {},
+            "autoProps": {
+              "left": false,
+              "right": true,
+              "top": true,
+              "bottom": false
+            },
+            "hCenter": false,
+            "vCenter": false
+          },
+          "bbox": {
+            "left": "2.5%",
+            "right": "72.8%",
+            "top": "72.0%",
+            "bottom": "2.8%",
+            "width": "25.00%",
+            "height": "25.00%"
+          },
+          "widgetId": "widget_5",
+          "isPending": true
+        },
+        "7": {
+          "type": "WIDGET",
+          "setting": {
+            "style": {},
+            "autoProps": {
+              "right": false,
+              "left": true,
+              "top": false,
+              "bottom": true
+            },
+            "hCenter": false,
+            "vCenter": false
+          },
+          "bbox": {
+            "left": "38.2%",
+            "right": "36.8%",
+            "top": "5.80%",
+            "bottom": "69.8%",
+            "width": "25.0%",
+            "height": "25.0%"
+          },
+          "widgetId": "widget_6",
+          "isPending": true
+        },
+        "9": {
+          "type": "WIDGET",
+          "setting": {
+            "style": {},
+            "autoProps": {
+              "left": false,
+              "right": true,
+              "top": false,
+              "bottom": true
+            },
+            "vCenter": false,
+            "hCenter": false
+          },
+          "bbox": {
+            "left": "2.5%",
+            "right": "72.5%",
+            "top": "6.0%",
+            "bottom": "69.0%",
+            "width": "25.0%",
+            "height": "25.0%"
+          },
+          "widgetId": "widget_3",
+          "isPending": true
+        },
+        "10": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": "1.2%",
+            "right": "70.7%",
+            "top": "4.9%",
+            "bottom": "68.0%",
+            "width": "28.00%",
+            "height": "28.00%"
+          },
+          "widgetId": "widget_12",
+          "setting": {
+            "autoProps": {
+              "left": false,
+              "right": true,
+              "top": false,
+              "bottom": true
+            },
+            "vCenter": false,
+            "hCenter": false
+          },
+          "isPending": true
+        },
+        "11": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": "36.8%",
+            "right": "35.1%",
+            "top": "35.1%",
+            "bottom": "35.20%",
+            "width": "28.00%",
+            "height": "28.00%"
+          },
+          "widgetId": "widget_13",
+          "setting": {
+            "autoProps": {
+              "left": true,
+              "right": false,
+              "top": true,
+              "bottom": false
+            },
+            "vCenter": false,
+            "hCenter": false
+          },
+          "isPending": true
+        },
+        "12": {
+          "type": "WIDGET",
+          "setting": {
+            "style": {},
+            "autoProps": {
+              "left": false,
+              "right": true,
+              "top": true,
+              "bottom": false
+            },
+            "vCenter": false,
+            "hCenter": false
+          },
+          "bbox": {
+            "left": "1.2%",
+            "right": "70.7%",
+            "top": "69.3%",
+            "bottom": "1.2%",
+            "width": "28.00%",
+            "height": "28.00%"
+          },
+          "widgetId": "widget_14",
+          "isPending": true
+        },
+        "14": {
+          "type": "WIDGET",
+          "setting": {
+            "style": {},
+            "autoProps": {
+              "right": false,
+              "left": true,
+              "top": false,
+              "bottom": true
+            },
+            "vCenter": false,
+            "hCenter": false
+          },
+          "bbox": {
+            "left": "36.8%",
+            "right": "35.1%",
+            "top": "4.90%",
+            "bottom": "65.6%",
+            "width": "28.00%",
+            "height": "28.00%"
+          },
+          "widgetId": "widget_15",
+          "isPending": true
+        },
+        "15": {
+          "type": "WIDGET",
+          "setting": {
+            "style": {},
+            "autoProps": {
+              "right": true,
+              "left": false,
+              "top": true,
+              "bottom": false
+            },
+            "vCenter": false,
+            "hCenter": false
+          },
+          "bbox": {
+            "left": "1.2%",
+            "right": "70.7%",
+            "top": "35.2%",
+            "bottom": "35.2%",
+            "width": "28.00%",
+            "height": "28.00%"
+          },
+          "widgetId": "widget_16",
+          "isPending": true
+        },
+        "16": {
+          "type": "WIDGET",
+          "setting": {
+            "style": {},
+            "autoProps": {
+              "right": true,
+              "left": false,
+              "top": true,
+              "bottom": false
+            },
+            "hCenter": false,
+            "vCenter": false
+          },
+          "bbox": {
+            "left": "2.5%",
+            "right": "70.8%",
+            "top": "36.9%",
+            "bottom": "35.80%",
+            "width": "25.00%",
+            "height": "25.00%"
+          },
+          "widgetId": "widget_17",
+          "isPending": true
+        },
+        "17": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": "0.0%",
+            "right": "0.0%",
+            "top": "0.0%",
+            "bottom": "1.3%",
+            "width": "100.0%",
+            "height": "98.7%"
+          },
+          "widgetId": "widget_18",
+          "setting": {
+            "autoProps": {
+              "left": true,
+              "right": false,
+              "top": false,
+              "bottom": true
+            }
+          },
+          "isPending": true
+        },
+        "19": {
+          "type": "WIDGET",
+          "setting": {
+            "style": {},
+            "autoProps": {
+              "right": false,
+              "left": true,
+              "top": true,
+              "bottom": false
+            }
+          },
+          "bbox": {
+            "left": "37.0%",
+            "right": "35.1%",
+            "top": "69.9%",
+            "bottom": "2.1%",
+            "width": "28.0%",
+            "height": "28.0%"
+          },
+          "widgetId": "widget_21",
+          "isPending": true
+        },
+        "20": {
+          "type": "WIDGET",
+          "setting": {
+            "style": {
+              "transform": {
+                "rotate": 0
+              }
+            },
+            "autoProps": {
+              "right": false,
+              "left": true,
+              "top": true,
+              "bottom": false
+            },
+            "vCenter": false,
+            "hCenter": false
+          },
+          "bbox": {
+            "left": "38.2%",
+            "right": "36.8%",
+            "top": "72.0%",
+            "bottom": "3.0%",
+            "width": "25.0%",
+            "height": "25.0%"
+          },
+          "widgetId": "widget_20",
+          "isPending": true
+        }
+      },
+      "order": [
+        "17",
+        "11",
+        "3",
+        "12",
+        "10",
+        "9",
+        "5",
+        "14",
+        "7",
+        "15",
+        "16",
+        "19",
+        "20"
+      ]
+    },
+    "layout_6": {
+      "label": "Selected",
+      "type": "FIXED"
+    },
+    "layout_7": {
+      "label": "Hover",
+      "type": "FIXED"
+    },
+    "layout_20": {
+      "type": "FIXED",
+      "content": {
+        "2": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": "6.15%",
+            "top": "50%",
+            "width": "352px",
+            "height": "100.00%",
+            "right": "4.18%",
+            "bottom": "0.00%"
+          },
+          "widgetId": "widget_58",
+          "setting": {
+            "lockParent": true,
+            "hCenter": false,
+            "vCenter": true,
+            "autoProps": {
+              "width": true,
+              "height": false,
+              "top": false,
+              "bottom": true
+            }
+          },
+          "isPending": false
+        }
+      },
+      "order": [
+        "2"
+      ],
+      "label": "Regular"
+    },
+    "layout_21": {
+      "type": "FIXED",
+      "label": "Default",
+      "content": {
+        "1": {
+          "type": "WIDGET",
+          "setting": {
+            "style": {},
+            "autoProps": {
+              "left": false,
+              "right": true,
+              "top": true,
+              "bottom": false
+            }
+          },
+          "bbox": {
+            "left": "3.9%",
+            "right": "4.0%",
+            "top": "45.3%",
+            "bottom": "2.3%",
+            "width": "92.1%",
+            "height": "52.4%"
+          },
+          "widgetId": "widget_60"
+        },
+        "2": {
+          "type": "WIDGET",
+          "setting": {
+            "style": {},
+            "autoProps": {
+              "left": false,
+              "right": true,
+              "top": false,
+              "bottom": true
+            }
+          },
+          "bbox": {
+            "left": "3.9%",
+            "right": "4.2%",
+            "top": "1.1%",
+            "bottom": "69.1%",
+            "width": "91.9%",
+            "height": "29.8%"
+          },
+          "widgetId": "widget_62"
+        },
+        "3": {
+          "type": "WIDGET",
+          "setting": {
+            "style": {},
+            "autoProps": {
+              "left": false,
+              "right": true,
+              "top": false,
+              "bottom": true
+            },
+            "vCenter": false,
+            "hCenter": false
+          },
+          "bbox": {
+            "left": "3.7%",
+            "right": "4.4%",
+            "top": "7.7%",
+            "bottom": "56.9%",
+            "width": "91.9%",
+            "height": "35.4%"
+          },
+          "widgetId": "widget_23",
+          "isPending": false
+        }
+      },
+      "order": [
+        "1",
+        "3",
+        "2"
+      ]
+    }
+  },
+  "exbVersion": "1.6.0",
+  "mainSizeMode": "LARGE",
+  "theme": "themes/default/",
+  "forBuilderAttributes": {
+    "lockLayout": false
+  },
+  "template": "blankfullscreen",
+  "widgets": {
+    "widget_1": {
+      "uri": "widgets/arcgis/arcgis-map/",
+      "version": "1.6.0",
+      "label": "Map",
+      "config": {
+        "toolConifg": {
+          "canZoom": true,
+          "canHome": true,
+          "canSearch": false,
+          "canNavigation": true,
+          "canSelect": false,
+          "canSelectState": false
+        },
+        "isUseCustomMapState": true,
+        "initialMapDataSourceID": "dataSource_6",
+        "initialMapState": {
+          "viewPoint": {
+            "rotation": 0,
+            "scale": 4622324.434309,
+            "targetGeometry": {
+              "spatialReference": {
+                "latestWkid": 3857,
+                "wkid": 102100
+              },
+              "x": -10285121.867138887,
+              "y": 4616688.69195532
+            }
+          },
+          "extent": {
+            "spatialReference": {
+              "latestWkid": 3857,
+              "wkid": 102100
+            },
+            "xmin": -11025643.797165478,
+            "ymin": 4186195.348653321,
+            "xmax": -9544599.937112296,
+            "ymax": 5047182.035257318
+          },
+          "rotation": 0,
+          "viewType": "2d"
+        },
+        "disablePopUp": true
+      },
+      "id": "widget_1",
+      "layouts": {
+        "MapFixedLayout": {
+          "LARGE": "layout_1"
+        }
+      },
+      "useDataSources": [
+        {
+          "dataSourceId": "dataSource_6",
+          "mainDataSourceId": "dataSource_6"
+        }
+      ]
+    },
+    "widget_3": {
+      "uri": "widgets/common/filter/",
+      "version": "1.6.0",
+      "label": "NameFilter",
+      "config": {
+        "groupByLayer": false,
+        "logicalOperator": "AND",
+        "custom": false,
+        "resetAll": false,
+        "turnOffAll": false,
+        "arrangeType": "INLINE",
+        "triggerType": "TOGGLE",
+        "omitInternalStyle": false,
+        "filterItems": [
+          {
+            "icon": {
+              "svg": "<svg viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M15 1.53V0H1v1.53h.07l5.374 5.288v6.121l2.26 2.224a.5.5 0 00.852-.356V6.825l5.382-5.295H15zM2 1h12v.049L8.556 6.406l-.001 7.207-1.111-1.093V6.399L2 1.042V1z\" fill=\"#000\"></path></svg>",
+              "properties": {
+                "color": "",
+                "filename": "filter.svg",
+                "originalName": "filter.svg",
+                "inlineSvg": true,
+                "path": [
+                  "general",
+                  "filter"
+                ],
+                "size": 14
+              }
+            },
+            "name": "Search for organization",
+            "useDataSource": {
+              "dataSourceId": "dataSource_6-MO_Charities_Geocoded_7366",
+              "mainDataSourceId": "dataSource_6-MO_Charities_Geocoded_7366",
+              "rootDataSourceId": "dataSource_6",
+              "fields": [
+                "charityName"
+              ]
+            },
+            "sqlExprObj": {
+              "logicalOperator": "AND",
+              "parts": [
+                {
+                  "type": "SINGLE",
+                  "jimuFieldName": "charityName",
+                  "operator": "STRING_OPERATOR_IS",
+                  "valueOptions": {
+                    "isValid": true,
+                    "sourceType": "USER_INPUT",
+                    "inputEditor": "TEXT_BOX",
+                    "value": null
+                  },
+                  "displayType": "USE_ASK_FOR_VALUE",
+                  "askForValueOptions": {
+                    "label": "Charity Name",
+                    "display": "BLOCK",
+                    "hint": "",
+                    "cascade": null
+                  },
+                  "displayLabel": null,
+                  "caseSensitive": false
+                }
+              ],
+              "sql": "",
+              "displaySQL": "(charityName = ?)"
+            },
+            "autoApplyWhenWidgetOpen": true,
+            "collapseFilterExprs": false
+          }
+        ]
+      },
+      "id": "widget_3",
+      "useDataSources": [
+        {
+          "dataSourceId": "dataSource_6-MO_Charities_Geocoded_7366",
+          "mainDataSourceId": "dataSource_6-MO_Charities_Geocoded_7366",
+          "rootDataSourceId": "dataSource_6",
+          "fields": [
+            "charityName"
+          ]
+        }
+      ],
+      "style": {
+        "background": {
+          "color": "#c1dba8",
+          "fillType": "fit",
+          "image": {
+            "url": ""
+          }
+        }
+      }
+    },
+    "widget_5": {
+      "uri": "widgets/common/filter/",
+      "version": "1.6.0",
+      "label": "SpecialtyFilter",
+      "config": {
+        "groupByLayer": false,
+        "logicalOperator": "AND",
+        "custom": false,
+        "resetAll": false,
+        "turnOffAll": false,
+        "arrangeType": "INLINE",
+        "triggerType": "TOGGLE",
+        "omitInternalStyle": false,
+        "filterItems": [
+          {
+            "icon": {
+              "svg": "<svg viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M15 1.53V0H1v1.53h.07l5.374 5.288v6.121l2.26 2.224a.5.5 0 00.852-.356V6.825l5.382-5.295H15zM2 1h12v.049L8.556 6.406l-.001 7.207-1.111-1.093V6.399L2 1.042V1z\" fill=\"#000\"></path></svg>",
+              "properties": {
+                "color": "",
+                "filename": "filter.svg",
+                "originalName": "filter.svg",
+                "inlineSvg": true,
+                "path": [
+                  "general",
+                  "filter"
+                ],
+                "size": 14
+              }
+            },
+            "name": "Specialty",
+            "useDataSource": {
+              "dataSourceId": "dataSource_6-MO_Charities_Geocoded_7366",
+              "mainDataSourceId": "dataSource_6-MO_Charities_Geocoded_7366",
+              "rootDataSourceId": "dataSource_6",
+              "fields": [
+                "causeName"
+              ]
+            },
+            "sqlExprObj": {
+              "logicalOperator": "AND",
+              "parts": [
+                {
+                  "type": "SINGLE",
+                  "jimuFieldName": "causeName",
+                  "operator": "STRING_OPERATOR_IS_ANY_OF",
+                  "valueOptions": {
+                    "isValid": true,
+                    "sourceType": "MULTIPLE",
+                    "inputEditor": "MULTIPLE_SELECT",
+                    "value": null
+                  },
+                  "displayType": "USE_ASK_FOR_VALUE",
+                  "askForValueOptions": {
+                    "label": "Charity Specialty",
+                    "display": "BLOCK",
+                    "hint": "",
+                    "cascade": "PREVIOUS"
+                  },
+                  "displayLabel": null,
+                  "caseSensitive": false
+                }
+              ],
+              "sql": "",
+              "displaySQL": "(causeName is any of (?))"
+            },
+            "autoApplyWhenWidgetOpen": true,
+            "collapseFilterExprs": false
+          }
+        ]
+      },
+      "id": "widget_5",
+      "useDataSources": [
+        {
+          "dataSourceId": "dataSource_6-MO_Charities_Geocoded_7366",
+          "mainDataSourceId": "dataSource_6-MO_Charities_Geocoded_7366",
+          "rootDataSourceId": "dataSource_6",
+          "fields": [
+            "causeName"
+          ]
+        }
+      ],
+      "style": {
+        "background": {
+          "color": "#c1dba8",
+          "fillType": "fit",
+          "image": {
+            "url": ""
+          }
+        },
+        "boxShadow": {
+          "offsetX": "50px",
+          "offsetY": "50px",
+          "blur": "0px",
+          "spread": "0px"
+        }
+      }
+    },
+    "widget_6": {
+      "uri": "widgets/common/filter/",
+      "version": "1.6.0",
+      "label": "DeductabilityFilter",
+      "config": {
+        "groupByLayer": false,
+        "logicalOperator": "AND",
+        "custom": false,
+        "resetAll": false,
+        "turnOffAll": false,
+        "arrangeType": "INLINE",
+        "triggerType": "TOGGLE",
+        "omitInternalStyle": false,
+        "filterItems": [
+          {
+            "icon": {
+              "svg": "<svg viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M15 1.53V0H1v1.53h.07l5.374 5.288v6.121l2.26 2.224a.5.5 0 00.852-.356V6.825l5.382-5.295H15zM2 1h12v.049L8.556 6.406l-.001 7.207-1.111-1.093V6.399L2 1.042V1z\" fill=\"#000\"></path></svg>",
+              "properties": {
+                "color": "",
+                "filename": "filter.svg",
+                "originalName": "filter.svg",
+                "inlineSvg": true,
+                "path": [
+                  "general",
+                  "filter"
+                ],
+                "size": 14
+              }
+            },
+            "name": "Deductability",
+            "useDataSource": {
+              "dataSourceId": "dataSource_6-MO_Charities_Geocoded_7366",
+              "mainDataSourceId": "dataSource_6-MO_Charities_Geocoded_7366",
+              "rootDataSourceId": "dataSource_6",
+              "fields": [
+                "deductibility"
+              ]
+            },
+            "sqlExprObj": {
+              "logicalOperator": "AND",
+              "parts": [
+                {
+                  "type": "SINGLE",
+                  "jimuFieldName": "deductibility",
+                  "operator": "STRING_OPERATOR_IS",
+                  "valueOptions": {
+                    "isValid": true,
+                    "sourceType": "UNIQUE",
+                    "inputEditor": "SIMPLE_SELECT",
+                    "value": null
+                  },
+                  "displayType": "USE_ASK_FOR_VALUE",
+                  "askForValueOptions": {
+                    "label": "Is it tax deductable?",
+                    "display": "BLOCK",
+                    "hint": "",
+                    "cascade": "PREVIOUS"
+                  },
+                  "displayLabel": null,
+                  "caseSensitive": false
+                }
+              ],
+              "sql": "",
+              "displaySQL": "(deductibility = ?)"
+            },
+            "autoApplyWhenWidgetOpen": true,
+            "collapseFilterExprs": false
+          }
+        ]
+      },
+      "id": "widget_6",
+      "useDataSources": [
+        {
+          "dataSourceId": "dataSource_6-MO_Charities_Geocoded_7366",
+          "mainDataSourceId": "dataSource_6-MO_Charities_Geocoded_7366",
+          "rootDataSourceId": "dataSource_6",
+          "fields": [
+            "deductibility"
+          ]
+        }
+      ],
+      "style": {
+        "background": {
+          "color": "#c1dba8",
+          "fillType": "fit",
+          "image": {
+            "url": ""
+          }
+        }
+      }
+    },
+    "widget_7": {
+      "uri": "widgets/common/filter/",
+      "version": "1.6.0",
+      "label": "RatingFilter",
+      "config": {
+        "groupByLayer": false,
+        "logicalOperator": "AND",
+        "custom": false,
+        "resetAll": false,
+        "turnOffAll": false,
+        "arrangeType": "INLINE",
+        "triggerType": "TOGGLE",
+        "omitInternalStyle": false,
+        "filterItems": [
+          {
+            "icon": {
+              "svg": "<svg viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M15 1.53V0H1v1.53h.07l5.374 5.288v6.121l2.26 2.224a.5.5 0 00.852-.356V6.825l5.382-5.295H15zM2 1h12v.049L8.556 6.406l-.001 7.207-1.111-1.093V6.399L2 1.042V1z\" fill=\"#000\"></path></svg>",
+              "properties": {
+                "color": "",
+                "filename": "filter.svg",
+                "originalName": "filter.svg",
+                "inlineSvg": true,
+                "path": [
+                  "general",
+                  "filter"
+                ],
+                "size": 14
+              }
+            },
+            "name": "Charity Navigator Rating",
+            "useDataSource": {
+              "dataSourceId": "dataSource_6-MO_Charities_Geocoded_7366",
+              "mainDataSourceId": "dataSource_6-MO_Charities_Geocoded_7366",
+              "rootDataSourceId": "dataSource_6",
+              "fields": [
+                "currentRating"
+              ]
+            },
+            "sqlExprObj": {
+              "logicalOperator": "AND",
+              "parts": [
+                {
+                  "type": "SINGLE",
+                  "jimuFieldName": "currentRating",
+                  "operator": "NUMBER_OPERATOR_IS_ANY_OF",
+                  "valueOptions": {
+                    "isValid": true,
+                    "sourceType": "MULTIPLE",
+                    "inputEditor": "MULTIPLE_SELECT",
+                    "value": null
+                  },
+                  "displayType": "USE_ASK_FOR_VALUE",
+                  "askForValueOptions": {
+                    "label": null,
+                    "display": "BLOCK",
+                    "hint": "",
+                    "cascade": "PREVIOUS"
+                  },
+                  "displayLabel": null,
+                  "caseSensitive": false
+                }
+              ],
+              "sql": "",
+              "displaySQL": "(currentRating is any of (?))"
+            },
+            "autoApplyWhenWidgetOpen": true,
+            "collapseFilterExprs": false
+          }
+        ]
+      },
+      "id": "widget_7",
+      "useDataSources": [
+        {
+          "dataSourceId": "dataSource_6-MO_Charities_Geocoded_7366",
+          "mainDataSourceId": "dataSource_6-MO_Charities_Geocoded_7366",
+          "rootDataSourceId": "dataSource_6",
+          "fields": [
+            "currentRating"
+          ]
+        }
+      ],
+      "style": {
+        "background": {
+          "color": "#c1dba8",
+          "fillType": "center",
+          "image": {
+            "url": ""
+          }
+        },
+        "boxShadow": {
+          "offsetX": "20px",
+          "offsetY": "20px",
+          "blur": "0px",
+          "spread": "0px"
+        },
+        "borderRadius": {
+          "number": [
+            5,
+            5,
+            5,
+            5
+          ],
+          "unit": "px"
+        }
+      }
+    },
+    "widget_12": {
+      "uri": "widgets/common/text/",
+      "version": "1.6.0",
+      "label": "NameFilterBox",
+      "config": {
+        "text": "<p>                              .</p>",
+        "placeholder": "Double click to edit text",
+        "style": {
+          "verticalAlign": "start",
+          "wrap": true
+        }
+      },
+      "id": "widget_12",
+      "style": {
+        "background": {
+          "color": "#c1dba8",
+          "fillType": "fit",
+          "image": {
+            "url": ""
+          }
+        },
+        "border": {
+          "type": "dashed",
+          "color": "var(--success-100)",
+          "width": "0px"
+        }
+      }
+    },
+    "widget_13": {
+      "uri": "widgets/common/text/",
+      "version": "1.6.0",
+      "label": "RatingFilterBox",
+      "config": {
+        "text": "<p>                                 .</p>",
+        "placeholder": "Double click to edit text",
+        "style": {
+          "verticalAlign": "start",
+          "wrap": true
+        }
+      },
+      "id": "widget_13",
+      "style": {
+        "background": {
+          "color": "#c1dba8",
+          "fillType": "fit",
+          "image": {
+            "url": ""
+          }
+        },
+        "border": {
+          "type": "dashed",
+          "color": "var(--success-100)",
+          "width": "0px"
+        }
+      }
+    },
+    "widget_14": {
+      "uri": "widgets/common/text/",
+      "version": "1.6.0",
+      "label": "SpecialtyFilterBox",
+      "config": {
+        "text": "<p>                                            .</p>",
+        "placeholder": "Double click to edit text",
+        "style": {
+          "verticalAlign": "start",
+          "wrap": true
+        }
+      },
+      "id": "widget_14",
+      "style": {
+        "background": {
+          "color": "#c1dba8",
+          "fillType": "fit",
+          "image": {
+            "url": ""
+          }
+        },
+        "border": {
+          "type": "dashed",
+          "color": "var(--success-100)",
+          "width": "0px"
+        }
+      }
+    },
+    "widget_15": {
+      "uri": "widgets/common/text/",
+      "version": "1.6.0",
+      "label": "DeductabilityFilterBox",
+      "config": {
+        "text": "<p>                                . </p>",
+        "placeholder": "Double click to edit text",
+        "style": {
+          "verticalAlign": "start",
+          "wrap": true
+        }
+      },
+      "id": "widget_15",
+      "style": {
+        "background": {
+          "color": "#c1dba8",
+          "fillType": "fit",
+          "image": {
+            "url": ""
+          }
+        },
+        "border": {
+          "type": "dashed",
+          "color": "var(--success-100)",
+          "width": "0px"
+        }
+      }
+    },
+    "widget_16": {
+      "uri": "widgets/common/text/",
+      "version": "1.6.0",
+      "label": "CategoryFilterBox",
+      "config": {
+        "text": "<p>                                  .</p>",
+        "placeholder": "Double click to edit text",
+        "style": {
+          "verticalAlign": "start",
+          "wrap": true
+        }
+      },
+      "id": "widget_16",
+      "style": {
+        "background": {
+          "color": "#c1dba8",
+          "fillType": "fit",
+          "image": {
+            "url": ""
+          }
+        },
+        "border": {
+          "type": "dashed",
+          "color": "var(--success-100)",
+          "width": "0px"
+        }
+      }
+    },
+    "widget_17": {
+      "uri": "widgets/common/filter/",
+      "version": "1.6.0",
+      "label": "CategoryFilter",
+      "config": {
+        "groupByLayer": false,
+        "logicalOperator": "AND",
+        "custom": false,
+        "resetAll": false,
+        "turnOffAll": false,
+        "arrangeType": "INLINE",
+        "triggerType": "TOGGLE",
+        "omitInternalStyle": false,
+        "filterItems": [
+          {
+            "icon": {
+              "svg": "<svg viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M15 1.53V0H1v1.53h.07l5.374 5.288v6.121l2.26 2.224a.5.5 0 00.852-.356V6.825l5.382-5.295H15zM2 1h12v.049L8.556 6.406l-.001 7.207-1.111-1.093V6.399L2 1.042V1z\" fill=\"#000\"></path></svg>",
+              "properties": {
+                "color": "",
+                "filename": "filter.svg",
+                "originalName": "filter.svg",
+                "inlineSvg": true,
+                "path": [
+                  "general",
+                  "filter"
+                ],
+                "size": 14
+              }
+            },
+            "name": "Category",
+            "useDataSource": {
+              "dataSourceId": "dataSource_6-MO_Charities_Geocoded_7366",
+              "mainDataSourceId": "dataSource_6-MO_Charities_Geocoded_7366",
+              "rootDataSourceId": "dataSource_6",
+              "fields": [
+                "categoryName"
+              ]
+            },
+            "sqlExprObj": {
+              "logicalOperator": "AND",
+              "parts": [
+                {
+                  "type": "SINGLE",
+                  "jimuFieldName": "categoryName",
+                  "operator": "STRING_OPERATOR_IS_ANY_OF",
+                  "valueOptions": {
+                    "isValid": true,
+                    "sourceType": "MULTIPLE",
+                    "inputEditor": "MULTIPLE_SELECT",
+                    "value": null
+                  },
+                  "displayType": "USE_ASK_FOR_VALUE",
+                  "askForValueOptions": {
+                    "label": "Charity Category",
+                    "display": "BLOCK",
+                    "hint": "",
+                    "cascade": "PREVIOUS"
+                  },
+                  "displayLabel": null,
+                  "caseSensitive": false
+                }
+              ],
+              "sql": "",
+              "displaySQL": "(categoryName is any of (?))"
+            },
+            "autoApplyWhenWidgetOpen": true,
+            "collapseFilterExprs": false
+          }
+        ]
+      },
+      "id": "widget_17",
+      "useDataSources": [
+        {
+          "dataSourceId": "dataSource_6-MO_Charities_Geocoded_7366",
+          "mainDataSourceId": "dataSource_6-MO_Charities_Geocoded_7366",
+          "rootDataSourceId": "dataSource_6",
+          "fields": [
+            "categoryName"
+          ]
+        }
+      ],
+      "style": {
+        "background": {
+          "color": "#c1dba8",
+          "fillType": "fit",
+          "image": {
+            "url": ""
+          }
+        }
+      }
+    },
+    "widget_18": {
+      "uri": "widgets/common/image/",
+      "version": "1.6.0",
+      "label": "Background",
+      "config": {
+        "functionConfig": {
+          "altText": "",
+          "toolTip": "",
+          "linkParam": {},
+          "scale": "Fit",
+          "imageParam": {
+            "url": "${appResourceUrl}/images/widget_18/1642037808723.PNG",
+            "originalUrl": "${appResourceUrl}/images/widget_18/1642037808723.PNG",
+            "fileName": "1642037808723.PNG",
+            "originalName": "Background4.PNG",
+            "imgSourceType": "BY_UPLOAD",
+            "fileFormat": "image/png",
+            "originalId": "1642037808723",
+            "isUseCompress": false
+          },
+          "imgSourceType": "",
+          "srcExpression": null
+        },
+        "styleConfig": {}
+      },
+      "id": "widget_18"
+    },
+    "widget_19": {
+      "uri": "widgets/common/text/",
+      "version": "1.6.0",
+      "label": "Title",
+      "config": {
+        "text": "<p style=\"text-align: center;\"><span style=\"font-size: 30px;\">Charitable Organizations in Missouri</span></p>",
+        "placeholder": "Double click to edit text",
+        "style": {
+          "verticalAlign": "start",
+          "wrap": true
+        }
+      },
+      "id": "widget_19",
+      "style": {
+        "background": {
+          "color": "#c1dba8",
+          "fillType": "fit",
+          "image": {
+            "url": ""
+          }
+        }
+      }
+    },
+    "widget_20": {
+      "uri": "widgets/common/filter/",
+      "version": "1.6.0",
+      "label": "NeedFilter",
+      "config": {
+        "groupByLayer": false,
+        "logicalOperator": "AND",
+        "custom": false,
+        "resetAll": false,
+        "turnOffAll": false,
+        "arrangeType": "INLINE",
+        "triggerType": "TOGGLE",
+        "omitInternalStyle": false,
+        "filterItems": [
+          {
+            "icon": {
+              "svg": "<svg viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M15 1.53V0H1v1.53h.07l5.374 5.288v6.121l2.26 2.224a.5.5 0 00.852-.356V6.825l5.382-5.295H15zM2 1h12v.049L8.556 6.406l-.001 7.207-1.111-1.093V6.399L2 1.042V1z\" fill=\"#000\"></path></svg>",
+              "properties": {
+                "color": "",
+                "filename": "filter.svg",
+                "originalName": "filter.svg",
+                "inlineSvg": true,
+                "path": [
+                  "general",
+                  "filter"
+                ],
+                "size": 14
+              }
+            },
+            "name": "Charity Needs",
+            "useDataSource": {
+              "dataSourceId": "dataSource_6-MO_Charities_Geocoded_7366",
+              "mainDataSourceId": "dataSource_6-MO_Charities_Geocoded_7366",
+              "rootDataSourceId": "dataSource_6",
+              "fields": [
+                "needPrio1"
+              ]
+            },
+            "sqlExprObj": {
+              "logicalOperator": "OR",
+              "parts": [
+                {
+                  "type": "SINGLE",
+                  "jimuFieldName": "needPrio1",
+                  "operator": "STRING_OPERATOR_IS_ANY_OF",
+                  "valueOptions": {
+                    "isValid": true,
+                    "sourceType": "MULTIPLE",
+                    "inputEditor": "MULTIPLE_SELECT",
+                    "value": null
+                  },
+                  "displayType": "USE_ASK_FOR_VALUE",
+                  "askForValueOptions": {
+                    "label": null,
+                    "display": "BLOCK",
+                    "hint": "",
+                    "cascade": "NONE"
+                  },
+                  "displayLabel": null,
+                  "caseSensitive": false
+                }
+              ],
+              "sql": "",
+              "displaySQL": "(needPrio1 is any of (?))"
+            },
+            "autoApplyWhenWidgetOpen": true,
+            "collapseFilterExprs": false
+          }
+        ]
+      },
+      "id": "widget_20",
+      "useDataSources": [
+        {
+          "dataSourceId": "dataSource_6-MO_Charities_Geocoded_7366",
+          "mainDataSourceId": "dataSource_6-MO_Charities_Geocoded_7366",
+          "rootDataSourceId": "dataSource_6",
+          "fields": [
+            "needPrio1"
+          ]
+        }
+      ],
+      "style": {
+        "background": {
+          "color": "#c1dba8",
+          "fillType": "center",
+          "image": {
+            "url": ""
+          }
+        },
+        "boxShadow": {
+          "offsetX": "20px",
+          "offsetY": "20px",
+          "blur": "0px",
+          "spread": "0px"
+        },
+        "borderRadius": {
+          "number": [
+            5,
+            5,
+            5,
+            5
+          ],
+          "unit": "px"
+        }
+      },
+      "icon": {
+        "svg": "<svg viewBox=\"0 0 20 20\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M18.5.995c0-.55-.43-.995-.96-.995H2.46a.94.94 0 00-.605.223 1.02 1.02 0 00-.14 1.4L6.5 7.72c.122.156.196.347.212.548l.835 10.815c.007.092.027.183.058.27a.951.951 0 001.237.582l2.112-.82a.99.99 0 00.615-.797l1.325-10.062c.025-.193.105-.374.228-.52l5.141-6.087c.154-.181.238-.414.238-.655zM2.5 1h14.999l-5.141 6.09-.117.153a2.016 2.016 0 00-.34.883l-1.325 10.062-2.035.792-.833-10.788-.02-.169a2.012 2.012 0 00-.402-.92L2.502 1.006 2.5 1z\" fill=\"#000\"></path></svg>",
+        "properties": {
+          "filename": "outlined/brand/widget-filter.svg",
+          "originalName": "outlined/brand/widget-filter.svg",
+          "path": [
+            "general",
+            "filter"
+          ],
+          "color": "#fff",
+          "size": 16,
+          "inlineSvg": true
+        }
+      }
+    },
+    "widget_21": {
+      "uri": "widgets/common/text/",
+      "version": "1.6.0",
+      "label": "RatingFilterBox copy",
+      "config": {
+        "text": "<p>                                 .</p>",
+        "placeholder": "Double click to edit text",
+        "style": {
+          "verticalAlign": "start",
+          "wrap": true
+        }
+      },
+      "id": "widget_21",
+      "style": {
+        "background": {
+          "color": "#c1dba8",
+          "fillType": "fit",
+          "image": {
+            "url": ""
+          }
+        },
+        "border": {
+          "type": "dashed",
+          "color": "var(--success-100)",
+          "width": "0px"
+        }
+      }
+    },
+    "widget_22": {
+      "uri": "widgets/common/search/",
+      "version": "1.5.0",
+      "label": "Search 1",
+      "config": {
+        "searchResultView": "Result_Panel",
+        "arrangementStyle": "Style1",
+        "maxSuggestions": 6,
+        "recentSearchesMaxNumber": 6,
+        "resultMaxNumber": 1,
+        "datasourceConfig": [
+          {
+            "configId": "config_0",
+            "label": "ArcGIS World Geocoding Service",
+            "geocodeURL": "https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer",
+            "outputDataSourceId": "widget_22_output_0",
+            "useDataSource": null,
+            "hint": "Find address or place",
+            "searchServiceType": "GeocodeService"
+          }
+        ],
+        "hint": "Find address or place",
+        "isUseCurrentLoation": true,
+        "isAutoSelectFirstResult": true
+      },
+      "id": "widget_22",
+      "outputDataSources": [
+        "widget_22_output_0"
+      ]
+    },
+    "widget_23": {
+      "uri": "widgets/common/list/",
+      "version": "1.6.0",
+      "label": "List 1",
+      "config": {
+        "maxItems": 100,
+        "space": 10,
+        "itemsPerPage": 10,
+        "isItemStyleConfirm": true,
+        "isInitialed": true,
+        "pageStyle": "SCROLL",
+        "itemStyle": "STYLE6",
+        "hoverType": "HOVER0",
+        "selectedStyle": "STYLE0",
+        "differentOddEven": false,
+        "scrollBarOpen": true,
+        "direction": "VERTICAL",
+        "alignType": "CENTER",
+        "scrollStep": 2,
+        "cardConfigs": {
+          "REGULAR": {
+            "cardSize": {
+              "LARGE": {
+                "width": 289.27,
+                "height": 32
+              }
+            },
+            "enable": true,
+            "backgroundStyle": {
+              "border": {
+                "type": "solid",
+                "color": "var(--light-400)",
+                "width": "1px"
+              }
+            },
+            "listLayout": "Custom"
+          },
+          "HOVER": {
+            "cardSize": {
+              "LARGE": {
+                "width": 289.27,
+                "height": 32
+              }
+            },
+            "enable": false,
+            "backgroundStyle": {
+              "border": {
+                "type": "solid",
+                "color": "var(--light-400)",
+                "width": "1px"
+              }
+            },
+            "listLayout": "Auto"
+          },
+          "SELECTED": {
+            "cardSize": {
+              "LARGE": {
+                "width": 289.27,
+                "height": 32
+              }
+            },
+            "backgroundStyle": {
+              "border": {
+                "type": "solid",
+                "color": "var(--primary-500)",
+                "width": "1px"
+              }
+            },
+            "selectionMode": "SINGLE",
+            "listLayout": "Auto"
+          }
+        },
+        "style": {
+          "id": "default"
+        },
+        "searchFields": null,
+        "filters": null,
+        "sorts": null,
+        "isShowAutoRefresh": false,
+        "navigatorOpen": false,
+        "linkParam": {
+          "linkType": "NONE",
+          "openType": "_blank",
+          "value": "",
+          "expression": {
+            "name": "{websiteURL}",
+            "parts": [
+              {
+                "type": "FIELD",
+                "exp": "{websiteURL}",
+                "dataSourceId": "dataSource_6-MO_Charities_Geocoded_7366-selection",
+                "jimuFieldName": "websiteURL",
+                "isFromRepeatedDataSourceContext": false
+              }
+            ]
+          }
+        },
+        "filterOpen": false,
+        "filter": {
+          "logicalOperator": "AND",
+          "parts": [
+            {
+              "type": "SINGLE",
+              "jimuFieldName": "categoryName",
+              "operator": "STRING_OPERATOR_IS_ANY_OF",
+              "valueOptions": {
+                "isValid": true,
+                "sourceType": "MULTIPLE",
+                "inputEditor": "MULTIPLE_SELECT",
+                "value": null
+              },
+              "displayType": "USE_ASK_FOR_VALUE",
+              "askForValueOptions": {
+                "label": "Category",
+                "display": "BLOCK",
+                "hint": "",
+                "cascade": "NONE"
+              },
+              "displayLabel": null,
+              "caseSensitive": false
+            },
+            {
+              "type": "SINGLE",
+              "jimuFieldName": "causeName",
+              "operator": "STRING_OPERATOR_IS_ANY_OF",
+              "valueOptions": {
+                "isValid": true,
+                "sourceType": "MULTIPLE",
+                "inputEditor": "MULTIPLE_SELECT",
+                "value": null
+              },
+              "displayType": "USE_ASK_FOR_VALUE",
+              "askForValueOptions": {
+                "label": "Specialty",
+                "display": "BLOCK",
+                "hint": "",
+                "cascade": "PREVIOUS"
+              },
+              "displayLabel": null,
+              "caseSensitive": false
+            },
+            {
+              "type": "SINGLE",
+              "jimuFieldName": "deductibility",
+              "operator": "STRING_OPERATOR_IS",
+              "valueOptions": {
+                "isValid": true,
+                "sourceType": "UNIQUE",
+                "inputEditor": "SIMPLE_SELECT",
+                "value": [
+                  {
+                    "value": "Contributions are deductible",
+                    "label": "Contributions are deductible"
+                  }
+                ]
+              },
+              "displayType": "USE_ASK_FOR_VALUE",
+              "askForValueOptions": {
+                "label": null,
+                "display": "BLOCK",
+                "hint": "",
+                "cascade": "NONE"
+              },
+              "displayLabel": null,
+              "caseSensitive": false
+            },
+            {
+              "type": "SINGLE",
+              "jimuFieldName": "currentRating",
+              "operator": "NUMBER_OPERATOR_IS_ANY_OF",
+              "valueOptions": {
+                "isValid": true,
+                "sourceType": "MULTIPLE",
+                "inputEditor": "MULTIPLE_SELECT",
+                "value": null
+              },
+              "displayType": "USE_ASK_FOR_VALUE",
+              "askForValueOptions": {
+                "label": null,
+                "display": "BLOCK",
+                "hint": "",
+                "cascade": "NONE"
+              },
+              "displayLabel": null,
+              "caseSensitive": false
+            }
+          ],
+          "sql": "((deductibility = 'Contributions are deductible'))",
+          "displaySQL": "(categoryName is any of (?)) and (causeName is any of (?)) and (deductibility = 'Contributions are deductible') and (currentRating is any of (?))"
+        }
+      },
+      "id": "widget_23",
+      "layouts": {
+        "REGULAR": {
+          "LARGE": "layout_20"
+        },
+        "SELECTED": {},
+        "HOVER": {}
+      },
+      "useDataSourcesEnabled": true,
+      "useDataSources": [
+        {
+          "dataSourceId": "dataSource_6-MO_Charities_Geocoded_7366",
+          "mainDataSourceId": "dataSource_6-MO_Charities_Geocoded_7366",
+          "rootDataSourceId": "dataSource_6",
+          "fields": [
+            "categoryName",
+            "causeName",
+            "deductibility",
+            "currentRating",
+            "websiteURL"
+          ]
+        }
+      ],
+      "dataActions": {
+        "panTo": {
+          "actions": {
+            "widget_1": {
+              "enabled": true
+            }
+          }
+        }
+      },
+      "enableDataAction": false,
+      "style": {
+        "background": {
+          "color": "#c1dba8",
+          "fillType": "fit",
+          "image": {
+            "url": ""
+          }
+        }
+      }
+    },
+    "widget_58": {
+      "uri": "widgets/common/text/",
+      "version": "1.6.0",
+      "label": "Text 17",
+      "config": {
+        "text": "<p><span style=\"color: var(--dark-800); font-size: 13px;\">﻿</span><exp data-uniqueid=\"022334b7_c03d_90e9_cc6e_d12a77eaf1a6\" data-dsid=\"dataSource_6-MO_Charities_Geocoded_7366\" data-expression=\"%7B%22name%22%3A%22%7BcharityName%7D%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BcharityName%7D%22%2C%22dataSourceId%22%3A%22dataSource_6-MO_Charities_Geocoded_7366%22%2C%22jimuFieldName%22%3A%22charityName%22%2C%22isFromRepeatedDataSourceContext%22%3Atrue%7D%5D%7D\">﻿<span contenteditable=\"false\">﻿﻿{charityName}﻿﻿</span>﻿</exp> </p>",
+        "placeholder": "<p><span style=\"font-size: 13px;color: var(--dark-800);\">Lorem ipsum dolor sit amet</span></p>",
+        "style": {
+          "verticalAlign": "start",
+          "wrap": true,
+          "overflow": "scroll",
+          "padding": "p-1"
+        }
+      },
+      "id": "widget_58",
+      "useDataSources": [
+        {
+          "dataSourceId": "dataSource_6-MO_Charities_Geocoded_7366",
+          "mainDataSourceId": "dataSource_6-MO_Charities_Geocoded_7366",
+          "rootDataSourceId": "dataSource_6",
+          "fields": [
+            "charityName"
+          ]
+        }
+      ],
+      "useDataSourcesEnabled": true,
+      "style": {
+        "background": {
+          "color": "#ffffff",
+          "fillType": "fit",
+          "image": {
+            "url": ""
+          }
+        }
+      }
+    },
+    "widget_60": {
+      "uri": "widgets/arcgis/feature-info/",
+      "version": "1.6.0",
+      "label": "Feature Info 1",
+      "config": {
+        "limitGraphics": false,
+        "maxGraphics": 0,
+        "title": true,
+        "fields": true,
+        "media": true,
+        "attachments": true,
+        "lastEditInfo": true,
+        "noDataMessage": "No data found.",
+        "styleType": "usePopupDefined",
+        "style": {
+          "textColor": "",
+          "fontSizeType": "auto",
+          "fontSize": {
+            "distance": 14,
+            "unit": "px"
+          },
+          "backgroundColor": ""
+        }
+      },
+      "id": "widget_60",
+      "useDataSources": [
+        {
+          "dataSourceId": "dataSource_6-MO_Charities_Geocoded_7366",
+          "mainDataSourceId": "dataSource_6-MO_Charities_Geocoded_7366",
+          "rootDataSourceId": "dataSource_6"
+        }
+      ],
+      "enableDataAction": false,
+      "style": {
+        "border": {
+          "type": "solid",
+          "color": "",
+          "width": "1px"
+        }
+      }
+    },
+    "widget_61": {
+      "uri": "widgets/layout/fixed/",
+      "version": "1.6.0",
+      "label": "Fixed Panel 1",
+      "id": "widget_61",
+      "layouts": {
+        "DEFAULT": {
+          "LARGE": "layout_21"
+        }
+      },
+      "style": {
+        "background": {
+          "color": "#c1dba8",
+          "fillType": "fit",
+          "image": {
+            "url": ""
+          }
+        }
+      }
+    },
+    "widget_62": {
+      "uri": "widgets/common/filter/",
+      "version": "1.6.0",
+      "label": "Filter 1",
+      "config": {
+        "groupByLayer": false,
+        "logicalOperator": "AND",
+        "custom": false,
+        "resetAll": false,
+        "turnOffAll": false,
+        "arrangeType": "BLOCK",
+        "triggerType": "TOGGLE",
+        "omitInternalStyle": false,
+        "filterItems": [
+          {
+            "icon": {
+              "svg": "<svg viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M15 1.53V0H1v1.53h.07l5.374 5.288v6.121l2.26 2.224a.5.5 0 00.852-.356V6.825l5.382-5.295H15zM2 1h12v.049L8.556 6.406l-.001 7.207-1.111-1.093V6.399L2 1.042V1z\" fill=\"#000\"></path></svg>",
+              "properties": {
+                "color": "",
+                "filename": "filter.svg",
+                "originalName": "filter.svg",
+                "inlineSvg": true,
+                "path": [
+                  "general",
+                  "filter"
+                ],
+                "size": 14
+              }
+            },
+            "name": "Filter results",
+            "useDataSource": {
+              "dataSourceId": "dataSource_6-MO_Charities_Geocoded_7366",
+              "mainDataSourceId": "dataSource_6-MO_Charities_Geocoded_7366",
+              "rootDataSourceId": "dataSource_6",
+              "fields": [
+                "categoryName",
+                "causeName",
+                "currentRating"
+              ]
+            },
+            "sqlExprObj": {
+              "logicalOperator": "AND",
+              "parts": [
+                {
+                  "type": "SINGLE",
+                  "jimuFieldName": "categoryName",
+                  "operator": "STRING_OPERATOR_IS_ANY_OF",
+                  "valueOptions": {
+                    "isValid": true,
+                    "sourceType": "MULTIPLE",
+                    "inputEditor": "MULTIPLE_SELECT",
+                    "value": null
+                  },
+                  "displayType": "USE_ASK_FOR_VALUE",
+                  "askForValueOptions": {
+                    "label": "Category",
+                    "display": "BLOCK",
+                    "hint": "",
+                    "cascade": "NONE"
+                  },
+                  "displayLabel": null,
+                  "caseSensitive": false
+                },
+                {
+                  "type": "SINGLE",
+                  "jimuFieldName": "causeName",
+                  "operator": "STRING_OPERATOR_IS_ANY_OF",
+                  "valueOptions": {
+                    "isValid": true,
+                    "sourceType": "MULTIPLE",
+                    "inputEditor": "MULTIPLE_SELECT",
+                    "value": null
+                  },
+                  "displayType": "USE_ASK_FOR_VALUE",
+                  "askForValueOptions": {
+                    "label": "Specialty",
+                    "display": "BLOCK",
+                    "hint": "",
+                    "cascade": "PREVIOUS"
+                  },
+                  "displayLabel": null,
+                  "caseSensitive": false
+                },
+                {
+                  "type": "SINGLE",
+                  "jimuFieldName": "currentRating",
+                  "operator": "NUMBER_OPERATOR_IS_ANY_OF",
+                  "valueOptions": {
+                    "isValid": true,
+                    "sourceType": "MULTIPLE",
+                    "inputEditor": "MULTIPLE_SELECT",
+                    "value": null
+                  },
+                  "displayType": "USE_ASK_FOR_VALUE",
+                  "askForValueOptions": {
+                    "label": null,
+                    "display": "BLOCK",
+                    "hint": "",
+                    "cascade": "PREVIOUS"
+                  },
+                  "displayLabel": null,
+                  "caseSensitive": false
+                }
+              ],
+              "sql": "",
+              "displaySQL": "(categoryName is any of (?)) and (causeName is any of (?)) and (currentRating is any of (?))"
+            },
+            "autoApplyWhenWidgetOpen": true,
+            "collapseFilterExprs": true
+          }
+        ]
+      },
+      "id": "widget_62",
+      "useDataSources": [
+        {
+          "dataSourceId": "dataSource_6-MO_Charities_Geocoded_7366",
+          "mainDataSourceId": "dataSource_6-MO_Charities_Geocoded_7366",
+          "rootDataSourceId": "dataSource_6",
+          "fields": [
+            "categoryName",
+            "causeName",
+            "currentRating"
+          ]
+        }
+      ]
+    }
+  },
+  "widgetsManifest": {},
+  "views": {
+    "view_1": {
+      "id": "view_1",
+      "label": "FilterBox",
+      "layout": {
+        "LARGE": "layout_4"
+      }
+    }
+  },
+  "sections": {
+    "section_1": {
+      "id": "section_1",
+      "label": "Section 1",
+      "views": [
+        "view_1"
+      ],
+      "style": {
+        "border": {
+          "type": "dotted",
+          "width": "0px"
+        }
+      }
+    }
+  },
+  "dialogs": {},
+  "dataSources": {
+    "dataSource_1": {
+      "id": "dataSource_1",
+      "type": "WEB_MAP",
+      "itemId": "d41f54b765ca46a4bde71d60d16c57ab",
+      "portalUrl": "https://esrieddelivery.maps.arcgis.com"
+    },
+    "dataSource_2": {
+      "id": "dataSource_2",
+      "type": "WEB_MAP",
+      "itemId": "679e315baa864f92bed62308dcd48393",
+      "portalUrl": "https://prof-services.maps.arcgis.com"
+    },
+    "dataSource_3": {
+      "id": "dataSource_3",
+      "type": "WEB_MAP",
+      "itemId": "679e315baa864f92bed62308dcd48393",
+      "portalUrl": "https://prof-services.maps.arcgis.com"
+    },
+    "dataSource_4": {
+      "id": "dataSource_4",
+      "type": "WEB_MAP",
+      "itemId": "679e315baa864f92bed62308dcd48393",
+      "portalUrl": "https://prof-services.maps.arcgis.com"
+    },
+    "dataSource_5": {
+      "id": "dataSource_5",
+      "type": "WEB_MAP",
+      "itemId": "679e315baa864f92bed62308dcd48393",
+      "portalUrl": "https://prof-services.maps.arcgis.com"
+    },
+    "dataSource_6": {
+      "id": "dataSource_6",
+      "type": "WEB_MAP",
+      "itemId": "3cdd20230928462eaea455217475fd23",
+      "portalUrl": "https://esrieddelivery.maps.arcgis.com",
+      "childDataSourceJsons": {
+        "MO_Charities_Geocoded_7366": {
+          "id": "dataSource_6-MO_Charities_Geocoded_7366",
+          "type": "FEATURE_LAYER",
+          "url": "https://services.arcgis.com/SgB3dZDkkUxpEHxu/arcgis/rest/services/MO_Charities_Geocoded/FeatureServer/0",
+          "portalUrl": "https://www.arcgis.com",
+          "itemId": "438e4cedb7e04dd5bd566fb256b0134b",
+          "geometryType": "esriGeometryPoint",
+          "query": {
+            "id": "default",
+            "label": "MO Charities Geocoded",
+            "orderBy": [
+              {
+                "jimuFieldName": "currentRatingScore",
+                "order": "DESC"
+              }
+            ]
+          }
+        }
+      },
+      "isHidden": false
+    },
+    "widget_22_output_0": {
+      "id": "widget_22_output_0",
+      "type": "FEATURE_LAYER",
+      "label": "ArcGIS World Geocoding Service",
+      "originDataSources": [],
+      "isOutputFromWidget": true,
+      "isDataInDataSourceInstance": false,
+      "schema": {
+        "label": "ArcGIS World Geocoding Service",
+        "idField": "objectid",
+        "fields": {
+          "objectid": {
+            "jimuName": "objectid",
+            "alias": "OBJECTID",
+            "type": "NUMBER",
+            "name": "objectid"
+          },
+          "address": {
+            "jimuName": "address",
+            "alias": "ADDRESS",
+            "type": "STRING",
+            "name": "address"
+          }
+        }
+      },
+      "geometryType": "esriGeometryPoint"
+    }
+  },
+  "messageConfigs": {
+    "messageConfig_1": {
+      "id": "messageConfig_1",
+      "widgetId": "widget_6",
+      "messageType": "DATA_SOURCE_FILTER_CHANGE",
+      "actions": [
+        {
+          "actionId": "widget_1-zoomToFeature-1642261076421",
+          "widgetId": "widget_1",
+          "messageWidgetId": "widget_6",
+          "actionName": "zoomToFeature",
+          "description": null,
+          "config": {
+            "useDataSource": {
+              "dataSourceId": "dataSource_6-MO_Charities_Geocoded_7366",
+              "mainDataSourceId": "dataSource_6-MO_Charities_Geocoded_7366",
+              "rootDataSourceId": "dataSource_6"
+            },
+            "useDataSources": [
+              {
+                "dataSourceId": "dataSource_6-MO_Charities_Geocoded_7366",
+                "mainDataSourceId": "dataSource_6-MO_Charities_Geocoded_7366",
+                "rootDataSourceId": "dataSource_6"
+              }
+            ]
+          },
+          "version": "1.6.0"
+        }
+      ]
+    },
+    "messageConfig_2": {
+      "id": "messageConfig_2",
+      "widgetId": "widget_7",
+      "messageType": "DATA_SOURCE_FILTER_CHANGE",
+      "actions": [
+        {
+          "actionId": "widget_1-zoomToFeature-1642261080088",
+          "widgetId": "widget_1",
+          "messageWidgetId": "widget_7",
+          "actionName": "zoomToFeature",
+          "description": null,
+          "config": {
+            "useDataSource": {
+              "dataSourceId": "dataSource_6-MO_Charities_Geocoded_7366",
+              "mainDataSourceId": "dataSource_6-MO_Charities_Geocoded_7366",
+              "rootDataSourceId": "dataSource_6"
+            },
+            "useDataSources": [
+              {
+                "dataSourceId": "dataSource_6-MO_Charities_Geocoded_7366",
+                "mainDataSourceId": "dataSource_6-MO_Charities_Geocoded_7366",
+                "rootDataSourceId": "dataSource_6"
+              }
+            ]
+          },
+          "version": "1.6.0"
+        }
+      ]
+    },
+    "messageConfig_3": {
+      "id": "messageConfig_3",
+      "widgetId": "widget_3",
+      "messageType": "DATA_SOURCE_FILTER_CHANGE",
+      "actions": [
+        {
+          "actionId": "widget_1-zoomToFeature-1642261057887",
+          "widgetId": "widget_1",
+          "messageWidgetId": "widget_3",
+          "actionName": "zoomToFeature",
+          "description": null,
+          "config": {
+            "useDataSource": {
+              "dataSourceId": "dataSource_6-MO_Charities_Geocoded_7366",
+              "mainDataSourceId": "dataSource_6-MO_Charities_Geocoded_7366",
+              "rootDataSourceId": "dataSource_6"
+            },
+            "useDataSources": [
+              {
+                "dataSourceId": "dataSource_6-MO_Charities_Geocoded_7366",
+                "mainDataSourceId": "dataSource_6-MO_Charities_Geocoded_7366",
+                "rootDataSourceId": "dataSource_6"
+              }
+            ]
+          },
+          "version": "1.6.0"
+        }
+      ]
+    },
+    "messageConfig_4": {
+      "id": "messageConfig_4",
+      "widgetId": "widget_17",
+      "messageType": "DATA_SOURCE_FILTER_CHANGE",
+      "actions": [
+        {
+          "actionId": "widget_1-zoomToFeature-1642261065511",
+          "widgetId": "widget_1",
+          "messageWidgetId": "widget_17",
+          "actionName": "zoomToFeature",
+          "description": null,
+          "config": {
+            "useDataSource": {
+              "dataSourceId": "dataSource_6-MO_Charities_Geocoded_7366",
+              "mainDataSourceId": "dataSource_6-MO_Charities_Geocoded_7366",
+              "rootDataSourceId": "dataSource_6"
+            },
+            "useDataSources": [
+              {
+                "dataSourceId": "dataSource_6-MO_Charities_Geocoded_7366",
+                "mainDataSourceId": "dataSource_6-MO_Charities_Geocoded_7366",
+                "rootDataSourceId": "dataSource_6"
+              }
+            ]
+          },
+          "version": "1.6.0"
+        }
+      ]
+    },
+    "messageConfig_5": {
+      "id": "messageConfig_5",
+      "widgetId": "widget_5",
+      "messageType": "DATA_SOURCE_FILTER_CHANGE",
+      "actions": [
+        {
+          "actionId": "widget_1-zoomToFeature-1642261071862",
+          "widgetId": "widget_1",
+          "messageWidgetId": "widget_5",
+          "actionName": "zoomToFeature",
+          "description": null,
+          "config": {
+            "useDataSource": {
+              "dataSourceId": "dataSource_6-MO_Charities_Geocoded_7366",
+              "mainDataSourceId": "dataSource_6-MO_Charities_Geocoded_7366",
+              "rootDataSourceId": "dataSource_6"
+            },
+            "useDataSources": [
+              {
+                "dataSourceId": "dataSource_6-MO_Charities_Geocoded_7366",
+                "mainDataSourceId": "dataSource_6-MO_Charities_Geocoded_7366",
+                "rootDataSourceId": "dataSource_6"
+              }
+            ]
+          },
+          "version": "1.6.0"
+        }
+      ]
+    },
+    "messageConfig_6": {
+      "id": "messageConfig_6",
+      "widgetId": "widget_20",
+      "messageType": "DATA_SOURCE_FILTER_CHANGE",
+      "actions": [
+        {
+          "actionId": "widget_1-zoomToFeature-1642261080088",
+          "widgetId": "widget_1",
+          "messageWidgetId": "widget_7",
+          "actionName": "zoomToFeature",
+          "description": null,
+          "config": {
+            "useDataSource": {
+              "dataSourceId": "dataSource_6-MO_Charities_Geocoded_7366",
+              "mainDataSourceId": "dataSource_6-MO_Charities_Geocoded_7366",
+              "rootDataSourceId": "dataSource_6"
+            },
+            "useDataSources": [
+              {
+                "dataSourceId": "dataSource_6-MO_Charities_Geocoded_7366",
+                "mainDataSourceId": "dataSource_6-MO_Charities_Geocoded_7366",
+                "rootDataSourceId": "dataSource_6"
+              }
+            ]
+          },
+          "version": "1.6.0"
+        }
+      ]
+    },
+    "messageConfig_7": {
+      "id": "messageConfig_7",
+      "widgetId": "widget_22",
+      "messageType": "DATA_RECORDS_SELECTION_CHANGE",
+      "actions": [
+        {
+          "actionId": "widget_1-zoomToFeature-1642266405144",
+          "widgetId": "widget_1",
+          "messageWidgetId": "widget_22",
+          "actionName": "zoomToFeature",
+          "description": null,
+          "config": {
+            "useDataSource": {
+              "dataSourceId": "widget_22_output_0",
+              "mainDataSourceId": "widget_22_output_0",
+              "rootDataSourceId": null
+            },
+            "useDataSources": [
+              {
+                "dataSourceId": "widget_22_output_0",
+                "mainDataSourceId": "widget_22_output_0",
+                "rootDataSourceId": null
+              }
+            ]
+          },
+          "version": "1.6.0"
+        }
+      ]
+    },
+    "messageConfig_8": {
+      "id": "messageConfig_8",
+      "widgetId": "widget_23",
+      "messageType": "DATA_RECORDS_SELECTION_CHANGE",
+      "actions": [
+        {
+          "actionId": "widget_1-zoomToFeature-1642272556956",
+          "widgetId": "widget_1",
+          "messageWidgetId": "widget_23",
+          "actionName": "zoomToFeature",
+          "description": null,
+          "config": {
+            "useDataSource": {
+              "dataSourceId": "dataSource_6-MO_Charities_Geocoded_7366",
+              "mainDataSourceId": "dataSource_6-MO_Charities_Geocoded_7366",
+              "rootDataSourceId": "dataSource_6"
+            },
+            "useDataSources": [
+              {
+                "dataSourceId": "dataSource_6-MO_Charities_Geocoded_7366",
+                "mainDataSourceId": "dataSource_6-MO_Charities_Geocoded_7366",
+                "rootDataSourceId": "dataSource_6"
+              }
+            ]
+          },
+          "version": "1.6.0"
+        },
+        {
+          "actionId": "widget_1-panTo-1642272560360",
+          "widgetId": "widget_1",
+          "messageWidgetId": "widget_23",
+          "actionName": "panTo",
+          "description": null,
+          "config": {
+            "useDataSource": {
+              "dataSourceId": "dataSource_6-MO_Charities_Geocoded_7366",
+              "mainDataSourceId": "dataSource_6-MO_Charities_Geocoded_7366",
+              "rootDataSourceId": "dataSource_6"
+            },
+            "useDataSources": [
+              {
+                "dataSourceId": "dataSource_6-MO_Charities_Geocoded_7366",
+                "mainDataSourceId": "dataSource_6-MO_Charities_Geocoded_7366",
+                "rootDataSourceId": "dataSource_6"
+              }
+            ]
+          },
+          "version": "1.6.0"
+        }
+      ]
+    },
+    "messageConfig_9": {
+      "id": "messageConfig_9",
+      "widgetId": "widget_1",
+      "messageType": "EXTENT_CHANGE",
+      "actions": [
+        {
+          "actionId": "filter-data-record-action-1642268522553",
+          "messageWidgetId": "widget_1",
+          "actionName": "filter data record action",
+          "description": null,
+          "config": {
+            "messageUseDataSource": null,
+            "actionUseDataSource": {
+              "dataSourceId": "dataSource_6-MO_Charities_Geocoded_7366",
+              "mainDataSourceId": "dataSource_6-MO_Charities_Geocoded_7366",
+              "rootDataSourceId": "dataSource_6"
+            },
+            "sqlExprObj": null,
+            "enabledDataRelationShip": true,
+            "enableQueryWithCurrentExtent": true
+          },
+          "version": "1.6.0"
+        }
+      ]
+    },
+    "messageConfig_10": {
+      "id": "messageConfig_10",
+      "widgetId": "widget_62",
+      "messageType": "DATA_SOURCE_FILTER_CHANGE",
+      "actions": [
+        {
+          "actionId": "widget_1-panTo-1642273559135",
+          "widgetId": "widget_1",
+          "messageWidgetId": "widget_62",
+          "actionName": "panTo",
+          "description": null,
+          "config": {
+            "useDataSource": {
+              "dataSourceId": "dataSource_6-MO_Charities_Geocoded_7366",
+              "mainDataSourceId": "dataSource_6-MO_Charities_Geocoded_7366",
+              "rootDataSourceId": "dataSource_6"
+            },
+            "useDataSources": [
+              {
+                "dataSourceId": "dataSource_6-MO_Charities_Geocoded_7366",
+                "mainDataSourceId": "dataSource_6-MO_Charities_Geocoded_7366",
+                "rootDataSourceId": "dataSource_6"
+              }
+            ]
+          },
+          "version": "1.6.0"
+        },
+        {
+          "actionId": "widget_1-zoomToFeature-1642273567723",
+          "widgetId": "widget_1",
+          "messageWidgetId": "widget_62",
+          "actionName": "zoomToFeature",
+          "description": null,
+          "config": {
+            "useDataSource": {
+              "dataSourceId": "dataSource_6-MO_Charities_Geocoded_7366",
+              "mainDataSourceId": "dataSource_6-MO_Charities_Geocoded_7366",
+              "rootDataSourceId": "dataSource_6"
+            },
+            "useDataSources": [
+              {
+                "dataSourceId": "dataSource_6-MO_Charities_Geocoded_7366",
+                "mainDataSourceId": "dataSource_6-MO_Charities_Geocoded_7366",
+                "rootDataSourceId": "dataSource_6"
+              }
+            ]
+          },
+          "version": "1.6.0"
+        }
+      ]
+    }
+  },
+  "attributes": {
+    "portalUrl": "https://esrieddelivery.maps.arcgis.com"
+  },
+  "sharedThemeVariables": {
+    "header": {},
+    "body": {},
+    "button": {},
+    "logo": {}
+  },
+  "pageStructure": [
+    {
+      "page_0": []
+    }
+  ],
+  "timestamp": 1642295537103
+}
