@@ -6,4 +6,4 @@ As seasons change and needs change, charities need a way to signal to potential 
 
 To build our survey and app, we have used various ArcGIS technologies. We have used ArcGIS API for Python, ArcGIS Pro, and ArcGIS Online to process our data. We have used ArcGIS online to build the web map that's used in our app, and further customized the pop-ups with Arcade. We used Experience Builder to build an effective app in a short amount of time, and chose its developer edition so we could deploy the app on our own server. Finally, we used survey123 to build a survey for the organizations to fill out. We set up a web hook to email each organization the link to their response so they can update it whenever they need to. 
 
-The survey can be accessed [here](https://arcg.is/1mCHnT0) and feel free to check out the app [here](https://localshelpinglocals.travisormsby.com/).
+The survey can be accessed [here](https://arcg.is/1mCHnT0) and feel free to check out the app [here](https://localshelpinglocals.travisormsby.com/). We have also included the configuration for our app in [this repo](https://github.com/travisormsby/ExB).
