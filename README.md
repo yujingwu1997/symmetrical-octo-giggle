@@ -1,9 +1,9 @@
 # symmetrical-octo-giggle
 
-This repo houses the code we wrote to build our Locals Helping Locals project for Esri's 2022 Hack the Map internal hackathon. 
+This repo houses the Locals Helping Locals app we built for Esri's 2022 Hack the Map internal hackathon. 
 
 As seasons change and needs change, charities need a way to signal to potential donors what items they need at the time they need it. We wanted to be able to fill that gap and give charities the opportunity to get targeted donations. Using ArcGIS Experience Builder, we have built an app that connects donors and non-profits using the power of geospatial intelligence, strengthened by financial and accountability assessments provided by Charity Navigator. The app allows an user to search for local charities, filter charities based on different categories, and learn their most urgent needs ranked by priority. In order to collect information from organizations about their needs for donation, we have also designed a survey using ArcGIS survey123. This survey allows the organizations to submit a response regarding their top 5 needs and edit their responses whenever their needs change. 
 
 To build our survey and app, we have used various ArcGIS technologies. We have used ArcGIS API for Python, ArcGIS Pro, and ArcGIS Online to process our data. We have used ArcGIS online to build the web map that's used in our app, and further customized the pop-ups with Arcade. We used Experience Builder to build an effective app in a short amount of time, and chose its developer edition so we could deploy the app on our own server. Finally, we used survey123 to build a survey for the organizations to fill out. We set up a web hook to email each organization the link to their response so they can update it whenever they need to. 
 
-The survey can be accessed [here](https://arcg.is/1mCHnT0) and feel free to check out the app [here](https://localshelpinglocals.travisormsby.com/). We have also included the configuration for our app in [this repo](https://github.com/travisormsby/ExB).
+The survey can be accessed [here](https://arcg.is/1mCHnT0) and feel free to check out the app [here](https://localshelpinglocals.travisormsby.com/). We have also stored the configuration for our app in [this repo](https://github.com/travisormsby/ExB) so it can be edited in ArcGIS Experience Builder. 
